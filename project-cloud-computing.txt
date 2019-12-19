@@ -2,5 +2,3 @@ Pembelajaran Cloud Computing
 - Presentasi
 - Tanya Jawab
 - Tugas Mandiri
-- Tugas Kelompok
-- Praktek
